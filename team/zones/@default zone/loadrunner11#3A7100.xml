@@ -1,0 +1,5 @@
+<lg-host hostname="loadrunner11:7100" loadWeight="1" standalone="false"
+    supportWANEmulation="false"
+    uid="3e150c7c-5a0d-4742-bae0-4eec8619fb59" version="6.1.0 dev;build=branchHead-DEV">
+    <!--****** LG NETWORK INTERFACES ******-->
+</lg-host>
